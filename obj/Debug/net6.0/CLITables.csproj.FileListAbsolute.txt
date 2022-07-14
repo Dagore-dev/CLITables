@@ -1,0 +1,12 @@
+D:\Repositorios\CLITables\bin\Debug\net6.0\CLITables.deps.json
+D:\Repositorios\CLITables\bin\Debug\net6.0\CLITables.dll
+D:\Repositorios\CLITables\bin\Debug\net6.0\CLITables.pdb
+D:\Repositorios\CLITables\obj\Debug\net6.0\CLITables.csproj.AssemblyReference.cache
+D:\Repositorios\CLITables\obj\Debug\net6.0\CLITables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\CLITables\obj\Debug\net6.0\CLITables.AssemblyInfoInputs.cache
+D:\Repositorios\CLITables\obj\Debug\net6.0\CLITables.AssemblyInfo.cs
+D:\Repositorios\CLITables\obj\Debug\net6.0\CLITables.csproj.CoreCompileInputs.cache
+D:\Repositorios\CLITables\obj\Debug\net6.0\CLITables.dll
+D:\Repositorios\CLITables\obj\Debug\net6.0\refint\CLITables.dll
+D:\Repositorios\CLITables\obj\Debug\net6.0\CLITables.pdb
+D:\Repositorios\CLITables\obj\Debug\net6.0\ref\CLITables.dll
